@@ -8,7 +8,7 @@
 <p align="center" >
     <img width="70" src="https://www.pikpng.com/pngl/b/523-5234445_tri-force-heroes-emoticons-icons-for-you-and.png"/> <br>
     Hi, I'm a Data Science Engineer, from <b><font color="#19B5FE">INSEA Morocco</font></b><br>
-    interested in <b><font color="#763568">Machine learning</font>, <font color="#763568">Deep learning</font></br></p>  
+    interested in <b><font color="#763568">Machine learning</font>, <font color="#763568">Deep learning</font>, <font color="#763568">and Reinforcement learning</font></br></p>  
  <br>
  - 🔭 I’m currently working on phD thesis
 - 🌱 I’m currently learning new skills
